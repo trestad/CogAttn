@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Cogformer
+Version: 0.0
+Author: Authors of this paper
+Author-email: anglv@ruc.edu.cn
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9.0
+Description-Content-Type: text/markdown
